@@ -1,0 +1,2 @@
+Play the classic and all-time favorite arcade game pong with the computer. Use the up and down arrow keys to move you paddle up and down. If you don't like the way the game is going for you, just press the "New game!" button and no one will ever know ;). The best part of the game is that it never ends, keep going as long as you have time to kill (or your internet is off and you can't work). THERE ARE NO LOSERS HERE!
+The game is designed to look like a tennis court so just chill out!

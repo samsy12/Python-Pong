@@ -72,7 +72,7 @@ def draw(canvas):
     global score1, score2, paddle1_pos, paddle2_pos, ball_pos, ball_vel, paddle1_vel, paddle2_vel
     canvas.draw_line([WIDTH / 2, 0],[WIDTH / 2, HEIGHT], 3, "White")	# mid line
     canvas.draw_line([PAD_WIDTH, 0],[PAD_WIDTH, HEIGHT], 1, "red")		# gutters
-    canvas.draw_line([WIDTH - PAD_WIDTH, 0],[WIDTH - PAD_WIDTH, HEIGHT], 1, "green")
+    canvas.draw_line([WIDTH - PAD_WIDTH, 0],[WIDTH - PAD_WIDTH, HEIGHT], 1, "LIME")
     frame.set_canvas_background(canvas_color)
     canvas.draw_circle([WIDTH / 2, HEIGHT / 2], 85, 4, "White")
 
